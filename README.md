@@ -32,6 +32,4 @@ This is a **theoretical research project** focused on:
 - Analysing risks in satellite mega-constellations and IoSat architectures
 - Evaluating whether advanced security technologies are realistically deployable in **resource-constrained satellite systems**
 
-## Status
 
-**Academic research project** – literature review and security analysis
